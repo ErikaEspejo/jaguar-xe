@@ -15,7 +15,8 @@ body {
   block-size: 100vh;
   background-image:url(https://s3.amazonaws.com/makeitreal/cars/jaguar-xe.jpg);
   background-repeat: no-repeat;
-  //background-attachment: fixed;
+  background-position: center center;
+  background-attachment: fixed;
   background-size: cover;
   font-family: Roboto;
   padding: 4%;
